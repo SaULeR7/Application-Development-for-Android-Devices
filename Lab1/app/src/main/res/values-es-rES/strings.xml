@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="textView">¡¡¡Hola Mundo!!!</string>
+    <string-array name="languages">
+        <item>Spanish</item>
+        <item>English</item>
+        <item>Russian</item>
+        <item>German</item>
+    </string-array>
+</resources>
